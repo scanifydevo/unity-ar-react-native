@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">demoapp</string>
+    <string name="game_view_content_description"></string>
+</resources>
